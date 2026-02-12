@@ -1,0 +1,11 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.build/
+.packages
+.pub/
+pubspec.lock
+
+# IDE
+.vscode/
+.idea/
+*.iml
